@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>stars hollow</h1>
+        <h1>David Erick</h1>
 
       </header>
     </div>
